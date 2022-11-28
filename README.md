@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jchukwuezi
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in building amazing user experiences on web/mobile
 - 🌱 I’m currently working on
     - Building MVPs  
