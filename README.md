@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on
     - Building MVPs  
     - Building websites using JAMStack (Static Site Generators + Headless CMSs):  https://joshchukwuezi.digital/
-    - Side project: https://github.com/jchukwuezi/contributely-v2
+    - Current side project: https://github.com/jchukwuezi/contributely-v2
      
 - 📫 How to reach me: jchukwuezi@gmail.com or check out my portfolio: https://www.joshchukwuezi.com/
 
