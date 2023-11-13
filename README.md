@@ -5,7 +5,7 @@
     - Building websites using JAMStack (Static Site Generators + Headless CMSs):  https://joshchukwuezi.digital/
     
      
-- 📫 How to reach me: jchukwuezi@gmail.com or check out my portfolio: https://www.joshchukwuezi.com/
+- 📫 How to reach me: jchukwuezi@gmail.com 
 
 <!---
 jchukwuezi/jchukwuezi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
