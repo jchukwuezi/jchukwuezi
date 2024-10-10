@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Josh
-- 🌱 I’m currently working on
-    - Building SAAS tools  
-    - Building websites: https://joshchukwuezi.digital/
+- 🌱 I’m currently building: https://rezigco.com/
  - 📫 You can reach me at jchukwuezi@gmail.com 
 
 <!---
