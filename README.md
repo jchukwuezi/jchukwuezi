@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh
-- 🌱 I’m currently building: https://rezigco.com/
+- 🌱 I’m currently building ai tools with typescript and llms mainly 
  - 📫 You can reach me at jchukwuezi@gmail.com 
 
 <!---
